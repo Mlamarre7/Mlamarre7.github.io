@@ -1,0 +1,19 @@
+h1 {
+    color:blue
+}
+
+p {
+
+}
+
+body {
+    background-color:rgb(149, 149, 196)
+}
+
+#content {
+    color:brown
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:blank
+}
